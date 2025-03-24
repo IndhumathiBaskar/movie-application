@@ -41,7 +41,7 @@
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd Movie-Application
+    cd movie-application
     ```
 
 3.  **Install dependencies:**
@@ -78,5 +78,8 @@
 
 6.  Open your browser and visit `http://localhost:5173` (or the URL provided by Vite).
 
-## 📁 Project Structure
+## Outcome
+
+![image](https://github.com/user-attachments/assets/0f0e9348-aece-4f42-8a6f-8d404d58ea39)
+
 
